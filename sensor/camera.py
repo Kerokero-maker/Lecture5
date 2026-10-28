@@ -2,7 +2,7 @@
 
 
 def detect_person(step):
-    return step == 5
+    return step == 55
 
 
 if __name__ == "__main__":
